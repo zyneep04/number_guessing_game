@@ -8,7 +8,8 @@ int main(){
 	int how_many_time=0;
 	
 	srand(time(NULL));
-	//rastgele sayi üretir//
+	//rastgele sayi uretir//
+	//generates random number//
 
 	num=rand()%10+1;
 	printf("Let's find the number i guessed.\nenter a number: ");
